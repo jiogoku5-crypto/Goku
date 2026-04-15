@@ -1,0 +1,17 @@
+function HelloWorld(str)
+
+print(tostring(str))
+
+1
+
+2
+
+3
+
+end
+
+4
+
+5
+
+HelloWorld("print")
